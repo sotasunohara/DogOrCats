@@ -1,2 +1,7 @@
 train/*
-traindata/*
+trainData/*
+visualwordstraining/*
+train_19000/*
+testData/*
+*.zip
+report/*
